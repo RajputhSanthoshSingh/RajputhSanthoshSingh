@@ -21,7 +21,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/?username=rajputhsanthoshsingh&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhsanthoshsingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%">
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajputhsanthoshsingh)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhsanthoshsingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%">
+</p>
