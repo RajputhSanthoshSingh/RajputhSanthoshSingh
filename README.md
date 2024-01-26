@@ -19,12 +19,14 @@
 
 ## GitHub Stats
 
+## GitHub Stats and Streak
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/?username=rajputhsanthoshsingh&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
 </p>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajputhsanthoshsingh" alt="GitHub Streak">
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajputhsanthoshsingh" alt="GitHub Streak" width="45%">
 </p>
 
 <p align="left">
