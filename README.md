@@ -17,18 +17,17 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30" alt="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" height="30" alt="OpenCV"> <img src="https://api.iconify.design/logos-perl.svg" width="30" height="30" alt="Perl"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
 
-## GitHub Stats
-
-## GitHub Stats and Streak
+## GitHub Stats, Streak, and Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=rajputhsanthoshsingh&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/?username=rajputhsanthoshsingh&show_icons=true&locale=en" alt="GitHub Stats" width="30%">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajputhsanthoshsingh" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajputhsanthoshsingh" alt="GitHub Streak" width="30%">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhsanthoshsingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhsanthoshsingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="30%">
 </p>
+
