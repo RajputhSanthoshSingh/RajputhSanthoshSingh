@@ -15,12 +15,7 @@
 
 ## Languages and Tools
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30" alt="C">
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java">
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux">
-- <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" height="30" alt="OpenCV">
-- <img src="https://api.iconify.design/logos-perl.svg" width="30" height="30" alt="Perl">
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30" alt="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" height="30" alt="OpenCV"> <img src="https://api.iconify.design/logos-perl.svg" width="30" height="30" alt="Perl"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
 
 ## GitHub Stats
 
