@@ -15,16 +15,15 @@
 
 ## Languages and Tools
 
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-- ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
-- ![Perl](https://api.iconify.design/logos-perl.svg)
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30" alt="C">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux">
+- <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" height="30" alt="OpenCV">
+- <img src="https://api.iconify.design/logos-perl.svg" width="30" height="30" alt="Perl">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
 
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhsanthoshsingh&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rajputhsanthoshsingh&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajputhsanthoshsingh)
-
