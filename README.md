@@ -11,7 +11,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/santhoshrajputh/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20">](https://www.linkedin.com/in/santhoshrajputh/)
 
 ## Languages and Tools
 
