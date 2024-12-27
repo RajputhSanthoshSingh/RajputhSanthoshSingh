@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [32-bit-Up-Down-Counter](https://github.com/RajputhSanthoshSingh/32-bit-Up-Down-Counter)
-- 🌱 I’m currently learning Verilog, Tcl, Perl, Python
-- 👯 I’m looking to collaborate on [32-bit-Up-Down-Counter](https://github.com/RajputhSanthoshSingh/32-bit-Up-Down-Counter)
+- 🔭 I’m currently working on [RISC_V](https://github.com/RajputhSanthoshSingh/RISC_V)
+- 🌱 I’m currently learning System Verilog, Tcl, Perl, Python
+- 👯 I’m looking to collaborate on [RISC_V](https://github.com/RajputhSanthoshSingh/RISC_V)
 - 📫 How to reach me [santhoshrajputhsingh@gmail.com](mailto:santhoshrajputhsingh@gmail.com)
 
 ## Connect with me
